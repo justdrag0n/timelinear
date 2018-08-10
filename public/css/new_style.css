@@ -1,0 +1,14 @@
+body{
+    background-image: url("https://cdn3.volusion.com/wzrmj.vmaus/v/vspfiles/photos/MIPWLD120ANTQ-2.jpg?1442905259");
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+.container {
+   padding: 2px 16px;
+}
+
+div .card{ 
+    width:50px;
+    
+    
+}
